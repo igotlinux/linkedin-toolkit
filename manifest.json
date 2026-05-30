@@ -3,8 +3,13 @@
   "name": "LinkedIn Toolkit – Skills Manager",
   "version": "1.0.0",
   "description": "Bulk remove LinkedIn skills, auto-scroll to load all skills, and manage your profile faster. Deletion runs in the background even when the popup is closed.",
-  "homepage_url": "https://github.com/shingareom/linkedin-toolkit",
-  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "homepage_url": "https://github.com/igotlinux/linkedin-toolkit",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
   "host_permissions": [
     "https://www.linkedin.com/*"
   ],
@@ -23,9 +28,15 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://www.linkedin.com/*"],
-      "js": ["content.js"],
-      "css": ["content.css"],
+      "matches": [
+        "https://www.linkedin.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ],
       "run_at": "document_idle"
     }
   ],

@@ -53,7 +53,7 @@
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/shingareom/linkedin-toolkit.git
+   git clone https://github.com/igotlinux/linkedin-toolkit.git
    ```
 2. Open Chrome and navigate to `chrome://extensions`
 3. Enable **Developer mode** (top-right toggle)
@@ -140,7 +140,7 @@ After each successful deletion, LinkedIn re-renders the skills list, invalidatin
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ```bash
-git clone https://github.com/shingareom/linkedin-toolkit.git
+git clone https://github.com/igotlinux/linkedin-toolkit.git
 cd linkedin-toolkit
 # Load unpacked in chrome://extensions and start hacking
 ```

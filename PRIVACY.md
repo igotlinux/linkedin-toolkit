@@ -38,4 +38,4 @@ Any updates will be reflected in this file in the GitHub repository.
 
 ## Contact
 
-For questions or concerns, open an issue on [GitHub](https://github.com/shingareom/linkedin-toolkit/issues).
+For questions or concerns, open an issue on [GitHub](https://github.com/igotlinux/linkedin-toolkit/issues).
