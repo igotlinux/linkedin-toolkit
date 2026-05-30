@@ -9,29 +9,41 @@
 
 ---
 
-## ✨ Features
-
-### 🧹 Skill Manager (v1.0)
-- **Auto-scroll scan** — automatically scrolls your LinkedIn skills page to trigger lazy-loaded content, then scans every skill
-- **Bulk selection** — select all, clear, or cherry-pick individual skills to remove
-- **Background deletion** — runs in the Chrome service worker, so closing the popup doesn't stop the process
-- **Live progress** — real-time log of every removed / failed skill with a progress bar
-- **Resume on reopen** — reopening the popup re-syncs with the background job in progress
-- **Cancel anytime** — stop the deletion mid-run with one click
-
-### 🚀 Coming Soon
-- Profile Analyzer
-- Connection Manager
-- Post Scheduler
-- Endorsement Tools
-
----
 
 ## 📸 Preview
 
-> Bulk-select 60 skills and remove them in one click — deletion runs in the background even if you close the popup.
+<table>
+<tr>
+<td width="40%" align="center">
 
 ![LinkedIn Toolkit Screenshot](./image.png)
+
+</td>
+<td width="60%" valign="top">
+
+### 🧹 Skill Manager — v1.0
+
+**Bulk-remove LinkedIn skills in seconds.**
+
+✅ &nbsp;**Auto-scroll scan** — triggers lazy-loaded skills automatically before scanning
+
+✅ &nbsp;**Bulk select** — select all or cherry-pick individual skills
+
+✅ &nbsp;**Background deletion** — closing the popup doesn't stop the process
+
+✅ &nbsp;**Live progress bar** — real-time log per skill with removed / failed status
+
+✅ &nbsp;**Resume on reopen** — popup re-syncs with the running background job
+
+✅ &nbsp;**Cancel anytime** — stop mid-run with one click
+
+---
+
+> ⚡ Deletion runs in the Chrome **service worker** — safely close the popup at any time and it keeps going.
+
+</td>
+</tr>
+</table>
 
 ---
 
