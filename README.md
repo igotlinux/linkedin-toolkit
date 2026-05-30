@@ -149,7 +149,7 @@ cd linkedin-toolkit
 
 ## 📄 License
 
-[MIT](./LICENSE) © 2024 Om Shingare
+[MIT](./LICENSE) © 2026 Om Shingare
 
 ---
 
