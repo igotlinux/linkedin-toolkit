@@ -29,7 +29,9 @@
 
 ## 📸 Preview
 
-> **Popup UI** — dark-mode, premium feel with real-time deletion progress
+> Bulk-select 60 skills and remove them in one click — deletion runs in the background even if you close the popup.
+
+![LinkedIn Toolkit Screenshot](./image.png)
 
 ---
 
