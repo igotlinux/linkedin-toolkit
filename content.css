@@ -1,0 +1,9 @@
+/* LinkedIn Toolkit - Content Script Styles
+   Injected into LinkedIn pages (minimal footprint) */
+
+/* We keep this minimal since the heavy UI is in the popup */
+.linkedin-toolkit-highlight {
+  outline: 2px solid rgba(10, 102, 194, 0.5) !important;
+  outline-offset: 2px;
+  transition: outline 0.2s ease;
+}
